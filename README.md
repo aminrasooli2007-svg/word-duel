@@ -2,7 +2,7 @@
 
 A JavaScript typing game designed to improve typing speed and accuracy through a simple and interactive gameplay experience.
 
-## ✨ Features
+## ✨ Features 
 
 * ⌨️ Typing-based gameplay
 * 🎯 Score tracking

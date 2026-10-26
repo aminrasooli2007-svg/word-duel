@@ -4,7 +4,7 @@ A JavaScript typing game designed to improve typing speed and accuracy through a
 
 ## ✨ Features 
 
-* ⌨️ Typing-based gameplay
+* ⌨️ Typing-based gameplay 
 * 🎯 Score tracking
 * 🔄 Restart the game
 * 🧠 JavaScript-based game logic
